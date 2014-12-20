@@ -1,0 +1,4 @@
+npromise.js
+===========
+
+Nano Promise
